@@ -1,0 +1,2 @@
+# Data analysis for Hospitals
+The project involves statistical analysis of data collected from hospitals. Used various tools for DataFrame analysis, also used pandas.plot and matplotlib.pyplot to build a graph for visual data analysis.
